@@ -22,7 +22,7 @@ header h1, header nav {
 
 header h1 {
 	text-align: center;
-	padding-bottom: 24px;
+	padding-bottom: 32px;
 }
 
 header nav {
@@ -98,4 +98,56 @@ main aside {
 .class-table p {
 	display: inline-block;
 	width: 49%;
+}
+
+main article {
+	display: inline-block;
+	width: 65%;
+	margin-left: 24px;
+}
+
+main article h2 {
+	font-size: 32px;
+	line-height: 36px;
+	margin-bottom: 12px;
+}
+
+article section {
+	border-radius: 12px;
+	border: 4px dashed #4ECDC4;
+	padding: 24px;
+}
+
+article section + section {
+	margin-top: 16px;
+}
+
+article section h3 {
+	font-size: 22px;
+	margin-bottom: 8px;
+}
+
+article section p {
+	line-height: 24px;
+	font-size: 18px;
+}
+
+article section .image-box {
+	padding: 12px;
+	border: none;
+}
+
+.image-unit {
+	width: 100%;
+	margin: 12px 0 0 0;
+}
+
+.bibliographic-references {
+	list-style-position: inside;
+}
+
+.bibliographic-references ul li a{
+	font-size: 20px;
+	line-height: 28px;
+	text-decoration: underline;
 }
