@@ -9,3 +9,7 @@ footer e img;
 - Criar páginas semanticamente válidas e acessíveis;
 
 - Entender a diferença entre elementos de bloco e elementos inline.
+
+## ScreenShot da Página
+
+![Screenshot da pagina](images/screenshot.png)
