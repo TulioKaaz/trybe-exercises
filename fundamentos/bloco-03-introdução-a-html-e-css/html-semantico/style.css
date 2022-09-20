@@ -170,3 +170,10 @@ article section .image-box {
 	max-width: 100%;
 	margin-bottom: 32px;
 }
+
+footer {
+	background-color: #1A535C;
+	color: #f8c630;
+	text-align: center;
+	padding: 32px;
+}
