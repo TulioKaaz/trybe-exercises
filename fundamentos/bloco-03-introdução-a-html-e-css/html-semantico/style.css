@@ -153,6 +153,8 @@ article section .image-box {
 }
 
 .video-sec {
+	border-top: 1px solid #dcdcdd;
+	padding-top: 8px;
 	margin: 20px 0 0 0;
 	text-align: center;
 }
