@@ -47,3 +47,55 @@ header nav ul li a {
 	font-size: 18px;
 	font-weight: bold;
 }
+
+main {
+	width: 70%;
+	margin: 24px auto;
+}
+
+main aside {
+	background-color: #4ECDC4;
+	display: inline-block;
+	padding: 12px 24px;
+	border: 3px solid #FFE66D;
+	border-radius: 8px;
+	margin-bottom: 24px;
+	vertical-align: top;
+}
+
+.titles {
+	text-align: center;
+	line-height: 32px;
+}
+
+.titles h3 {
+	font-size: 24px;
+}
+
+.titles h4 {
+	font-size: 16px;
+	border-bottom: 1px solid #dcdcdd;
+	margin-bottom: 4px;
+}
+
+.image-box {
+	text-align: center;
+	border-bottom: 1px solid #dcdcdd;
+	margin-bottom: 8px;
+}
+
+.class-table {
+	width: 300px;
+	margin: auto;
+	line-height: 24px;
+}
+
+.class-table h4{
+	font-size: 16px;
+	margin: 4px;
+}
+
+.class-table p {
+	display: inline-block;
+	width: 49%;
+}
