@@ -151,3 +151,22 @@ article section .image-box {
 	line-height: 28px;
 	text-decoration: underline;
 }
+
+.video-sec {
+	margin: 20px 0 0 0;
+	text-align: center;
+}
+
+.video-sec h3 {
+	font-size: 32px;
+	margin-bottom: 20px;
+}
+
+.video-sec iframe {
+	position: relative;
+	overflow: hidden;
+	width: 1280px;
+	height: 720px;
+	max-width: 100%;
+	margin-bottom: 32px;
+}
