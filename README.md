@@ -36,5 +36,12 @@ engenharia de software, metodologias ágeis e habilidades comportamentais.
 
 - [ ] 4-1: JavaScript - Primeiros passos
 - [x] 4-2: [JavaScript - Array e loop For](./fundamentos/secao-04-introdu%C3%A7%C3%A3o-a-javascript/dia-2-array-e-loop-for)
-- [ ] 4-3: JavaScript - Lógica de programação e Algoritmos
+- [x] 4-3: [JavaScript - Lógica de programação e Algoritmos](./fundamentos/secao-04-introdu%C3%A7%C3%A3o-a-javascript/dia-3-l%C3%B3gica-de-programacao-e-algoritmos/)
 - [ ] 4.4: JavaScript - Objetos e funções
+
+### Seção 5: JavaScript: DOM, Eventos e Web Storage
+
+- [ ] 5-1: [JavaScript - DOM e seletores]()
+- [ ] 5-1: JavaScript - Trabalhando com elementos
+- [ ] 5-1: JavaScript - Eventos
+- [ ] 5-1: JavaScript - Web Storage

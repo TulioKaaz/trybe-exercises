@@ -43,5 +43,3 @@ function worldCounter(str) {
 	}
 	return counter;
 }
-
-
