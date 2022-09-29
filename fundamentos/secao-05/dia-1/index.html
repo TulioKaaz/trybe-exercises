@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Exercício</title>
+    
+    <style>
+      main, section {
+        border-color: black;
+        border-style: solid;
+      }
+
+      .title {
+        text-align: center;
+      }
+
+      .main-content {
+        background-color: yellow;
+      }
+
+      .main-content .center-content {
+        background-color: red;
+        width: 50%;
+        margin: 0 auto;
+      }
+
+      .main-content .center-content p {
+        font-style: italic;
+      }
+    </style>
+  </head>
+  <body>
+    <header> 
+      <h1 id="title" class="title">Exercício - JavaEscripito </h1>
+    </header>    
+    <main id="main" class="main-content">
+      <section id="content" class="center-content">
+        <p id="text-default" >Texto padrão do nosso site</p>
+        <p id="cote">-----</p>
+        <p>Trybe</p>
+      </section>
+    </main>
+    <script>
+      let cote = "Em dois anos pretendo estar trabalhando ná área de programação e comprando meu primeiro carro.";
+      changeText('cote', cote);
+      changeText('title', 'Exercício - JavaScript: DOM e seletores');
+      changeBColor("main", "rgb(76,164,109)");
+      changeBColor("content", "white");
+      changeToUppercase("text-default");
+      logContentByTagName('p')
+
+      function changeBColor(elementID, color) {
+        document.getElementById(elementID).style.backgroundColor = color;
+      }
+
+      function changeText(elementID, text) {
+        document.getElementById(elementID).innerText = text;
+      }
+
+      function changeToUppercase(elementID) {
+        let UppercaseText = document.getElementById(elementID).innerText.toUpperCase();
+        document.getElementById(elementID).innerText = UppercaseText;
+      }
+
+      function logContentByTagName(elementTagName) {
+        let elementsArr = document.getElementsByTagName(elementTagName);
+
+        for (let index in elementsArr) {
+          console.log(elementsArr[index]);
+        }
+      }
+
+        /*
+    
+      6. Crie e execute uma função que exiba o conteúdo de todas as tags <p> no console.
+      */
+    </script>
+  </body>
+</html>
