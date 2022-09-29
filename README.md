@@ -30,18 +30,18 @@ engenharia de software, metodologias ágeis e habilidades comportamentais.
 - [ ] 3-1: HTML & CSS - Estruturas de página
 - [ ] 3-2: HTML & CSS - Primeiros passos em CSS
 - [ ] 3-3: HTML & CSS - Seletores e Posicionamento
-- [x] 3-4: [HTML Semântico](./fundamentos/bloco-03-introdu%C3%A7%C3%A3o-a-html-e-css/html-semantico)
+- [x] 3-4: [HTML Semântico](./fundamentos/secao-03/dia-4/)
 
 ### Seção 4: Introdução à JavaScript
 
 - [ ] 4-1: JavaScript - Primeiros passos
-- [x] 4-2: [JavaScript - Array e loop For](./fundamentos/secao-04-introdu%C3%A7%C3%A3o-a-javascript/dia-2-array-e-loop-for)
-- [x] 4-3: [JavaScript - Lógica de programação e Algoritmos](./fundamentos/secao-04-introdu%C3%A7%C3%A3o-a-javascript/dia-3-l%C3%B3gica-de-programacao-e-algoritmos/)
+- [x] 4-2: [JavaScript - Array e loop For](./fundamentos/secao-04/dia-2/ )
+- [x] 4-3: [JavaScript - Lógica de programação e Algoritmos](./fundamentos/secao-04/dia-3/)
 - [ ] 4.4: JavaScript - Objetos e funções
 
 ### Seção 5: JavaScript: DOM, Eventos e Web Storage
 
-- [ ] 5-1: [JavaScript - DOM e seletores]()
+- [x] 5-1: [JavaScript - DOM e seletores](./fundamentos/secao-05/dia-1/)
 - [ ] 5-1: JavaScript - Trabalhando com elementos
 - [ ] 5-1: JavaScript - Eventos
 - [ ] 5-1: JavaScript - Web Storage
